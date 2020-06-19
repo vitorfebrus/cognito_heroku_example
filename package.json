@@ -1,0 +1,19 @@
+{
+  "name": "cognito_heroku_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorfebrus/cognito_heroku_example.git"
+  },
+  "author": "Vitor Sampaio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorfebrus/cognito_heroku_example/issues"
+  },
+  "homepage": "https://github.com/vitorfebrus/cognito_heroku_example#readme"
+}
